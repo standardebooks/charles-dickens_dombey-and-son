@@ -28,6 +28,10 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Dombey and Son</dc:title>
 		<meta property="file-as" refines="#title">Dombey and Son</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="fulltitle">Dealings with the Firm of Dombey and Son: Wholesale, Retail and for Exportation</dc:title>
+		<meta property="file-as" refines="#fulltitle">Dealings with the Firm of Dombey and Son: Wholesale, Retail and for Exportation</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Dysfunctional families -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
