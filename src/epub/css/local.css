@@ -49,8 +49,18 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 
-p span.i8{
-	padding-left: 2em;
+p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i12{
+	padding-left: 13em;
+	text-indent: -1em;
+}
+
+p span.i14{
+	padding-left: 15em;
 	text-indent: -1em;
 }
 /* end of poem/verse/song */
