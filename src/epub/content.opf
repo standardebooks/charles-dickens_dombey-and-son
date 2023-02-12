@@ -51,9 +51,10 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008103510</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman grows up in a household where all of her father’s attention is on his son.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p></p>
+			<p></p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/821</dc:source>
@@ -70,10 +71,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78087607</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">James Jebusa Shannon</dc:contributor>
+		<meta property="file-as" refines="#artist">Shannon, James Jebusa</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/James_Jebusa_Shannon</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2014090463</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Neil McLachlan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">McLachlan, Neil</meta>
@@ -83,8 +84,8 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-3">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
