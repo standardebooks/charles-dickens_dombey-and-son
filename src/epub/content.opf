@@ -53,13 +53,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman grows up in a household where all of her father’s attention is on his son.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p></p>
-			<p></p>
+			&lt;p&gt;The fictional Dombey and Son is a prominent mercantile “house” in England, and as &lt;i&gt;Dombey and Son&lt;/i&gt; the novel opens, the third generation “and Son” has just been born. For Paul Dombey, the proud second “and Son” to graduate to “Dombey,” this moment has been the focus of his life to this point. So much so that he barely knows his six-year-old daughter Florence exists.&lt;/p&gt;
+			&lt;p&gt;The impact of that father’s overbearing disposition on the one hand and indifference (and worse) on the other is the subject of the rest of the novel. Paul’s only focus is on preparing the junior Paul to be “and Son,” and those preparations have no room for Florence. As she makes her way to adulthood, she encounters caregivers good and bad, adventures large and small, all while striving to find a place in her father’s heart.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Dombey and Son&lt;/i&gt; is a novel about the destructive nature of pride and arrogance, but it also has plenty to say about the essential qualities of motherhood and money. It would not be &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Dickens&lt;/a&gt; if there were not a plethora of characters of all stripes, stations, and personalities, each of whom leave an indelible impression on both the page and the mind.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/821</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225391</dc:source>
-		<meta property="se:production-notes">The PG transcription contains additional text that does not appear in any found online scans; it has been left in for this edition.</meta>
+		<meta property="se:production-notes">The PG transcription contains additional text that was present in the original proofs but was removed before initial publication. It has been removed for this edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dombey_and_Son</meta>
