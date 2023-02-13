@@ -73,22 +73,20 @@ p span.i14{
 /* end of poem/verse/song */
 
 /* custom */
-#dedication p{
+#dedication{
 	font-variant: small-caps;
-	margin-bottom: 1em;
-	text-indent: 0;
 }
 
-#dedication p:nth-of-type(2),
-#dedication p:nth-of-type(3){
+#dedication span{
 	font-size: .75em;
 }
 
-#dedication p:last-of-type{
+#dedication b{
 	font-size: 1.25em;
 }
 
-#preface-1 p:last-of-type{
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 /* end of custom */
