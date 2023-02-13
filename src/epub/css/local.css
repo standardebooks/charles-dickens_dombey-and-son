@@ -8,6 +8,7 @@ abbr[epub|type~="se:era"]{
 /* end of abbreviations /*
 
 /* centered dedications */
+
 section[epub|type~="dedication"]{
 	text-align: center;
 }
