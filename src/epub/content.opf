@@ -64,7 +64,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/821</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225391</dc:source>
 		<meta property="se:production-notes">The PG transcription contains additional text that was present in the original proofs, but was removed before Dickens published. It has been removed for this edition.</meta>
-		<meta property="se:word-count">356146</meta>
+		<meta property="se:word-count">356112</meta>
 		<meta property="se:reading-ease.flesch">69.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dombey_and_Son</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_dombey-and-son</meta>
