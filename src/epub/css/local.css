@@ -77,12 +77,9 @@ p span.i14{
 	font-variant: small-caps;
 }
 
-#dedication span{
-	font-size: .75em;
-}
-
+#dedication span,
 #dedication b{
-	font-size: 1.25em;
+	font-size: larger;
 }
 
 footer{
