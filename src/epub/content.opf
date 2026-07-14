@@ -33,7 +33,7 @@
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="fulltitle">Dealings with the Firm of Dombey and Son: Wholesale, Retail and for Exportation</dc:title>
 		<meta property="file-as" refines="#fulltitle">Dealings with the Firm of Dombey and Son: Wholesale, Retail and for Exportation</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Dysfunctional families -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
