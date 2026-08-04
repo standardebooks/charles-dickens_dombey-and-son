@@ -56,7 +56,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">41</meta>
-		<dc:abstract>A young woman grows up in a household where all of her father’s attention is on his son.</dc:abstract>
+		<meta property="schema:abstract">A young woman grows up in a household where all of her father’s attention is on his son.</meta>
 		<dc:description>
 			&lt;p&gt;The fictional Dombey and Son is a prominent mercantile “house” in England, and as &lt;i&gt;Dombey and Son&lt;/i&gt; the novel opens, the third generation “and Son” has just been born. For Paul Dombey, the proud second “and Son” to graduate to “Dombey,” this moment has been the focus of his life to this point. So much so that he barely knows his six-year-old daughter Florence exists.&lt;/p&gt;
 			&lt;p&gt;The impact of that father’s overbearing disposition on the one hand and indifference (and worse) on the other is the subject of the rest of the novel. Paul’s only focus is on preparing the junior Paul to be “and Son,” and those preparations have no room for Florence. As she makes her way to adulthood, she encounters caregivers good and bad, and adventures large and small, all while striving to find a place in her father’s heart.&lt;/p&gt;
